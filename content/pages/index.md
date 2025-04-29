@@ -266,7 +266,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Full help grow up your business
       color: text-dark
       styles:
         self:
