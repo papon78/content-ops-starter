@@ -673,11 +673,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "## \U0001F4DE Need Help? Contact HyperBoost Anytime!\n\nOur support team is ready to assist you 24/7. Whether you have a question, need help with an order, or want to learn more about our services — we're here for you.\n\n\n\n"
     media:
       fields:
         - name: name
