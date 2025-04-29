@@ -228,11 +228,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Hyperboost
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "## \U0001F4CA Grow Your Business with HyperBoost\n\nWant to reach more people and grow faster? HyperBoost helps **influencers, entrepreneurs, brands, and content creators** grow their online presence with powerful and affordable social media services.\n\n### \U0001F525 Why Growing with Us Works:\n\n*   \U0001F3AF **Reach More Customers** – Increase visibility across platforms like Facebook, Instagram, YouTube, and TikTok.\n\n*   \U0001F680 **Build Trust Fast** – More likes, followers, and views build social proof and credibility.\n\n*   \U0001F4BC **Boost Sales & Engagement** – Turn attention into action with targeted growth strategies.\n\n*   \U0001F4B8 **Save Time & Money** – Fast delivery and affordable pricing let you focus on what matters most.\n\n\n\n**Let HyperBoost handle the growth** – you focus on creating, selling, and scaling your brand.\n\n> \U0001F7E2 Ready to grow? **Join HyperBoost today and level up your business!**\n\n\n\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
