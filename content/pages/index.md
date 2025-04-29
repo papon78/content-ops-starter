@@ -12,10 +12,7 @@ sections:
       to help you grow your online presence, gain more visibility, and boost
       engagement across platforms like Facebook, Instagram, YouTube, TikTok, and
       more.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "### \U0001F31F What We Offer:\n\n*   \U0001F4C8 **Facebook Services**: Likes, Followers, Page Boost, Live Watch Time\n\n*   \U0001F3A5 **YouTube Growth**: Subscribers, Views, Watch Time, Shorts Boost\n\n*   \U0001F4F8 **Instagram Boosts**: Followers, Reels Views, Likes, Comments\n\n*   \U0001F3B5 **TikTok Engagement**: Followers, Video Views, Likes\n\n*   \U0001F30D **Website Traffic**: Real and Organic Visitors\n\n*   \U0001F3C6 **24/7 Support & Fast Delivery**\n\n### \U0001F4B3 Easy & Secure Payments\n\nWe support **Bkash, Nagad, Rocket** and offer a **user-friendly dashboard** to track all your orders in real-time.\n\n### ✅ Why Choose HyperBoost?\n\n*   Trusted by 1000+ clients\n\n*   Fast and reliable delivery\n\n*   Affordable pricing\n\n*   100% safe & secure\n\n*   Live customer support\n\n\n\n**Start growing now** – Sign up and give your social media the boost it deserves with **HyperBoost**.\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
