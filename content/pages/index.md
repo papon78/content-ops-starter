@@ -7,7 +7,11 @@ sections:
       text: "\U0001F680 Welcome to HyperBoost – Power Up Your Social Media Growth!"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      At HyperBoost, we specialize in delivering premium social media services
+      to help you grow your online presence, gain more visibility, and boost
+      engagement across platforms like Facebook, Instagram, YouTube, TikTok, and
+      more.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
